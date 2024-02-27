@@ -1,0 +1,2 @@
+# Android-MySQL
+這是一個在Android系統上的應用程式並且使用MySQL API來實現數據的儲存和管理
