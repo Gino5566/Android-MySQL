@@ -46,3 +46,4 @@
 ### VS Code-php(2):
 ![image](https://github.com/Gino5566/Android-MySQL/assets/133637425/8c5a1633-a416-4dfe-88e4-71cfe3bc270a)
 
+# 結果
