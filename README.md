@@ -28,12 +28,21 @@
 ![image](https://github.com/Gino5566/Android-MySQL/assets/133637425/4bd487ec-7191-47a8-b69b-5efe371fe67d)
 <br>  
 
-### Android Studio(2)-UploadImagetoMySQL.java:
+### Android Studio(3)-UploadImagetoMySQL.java:
 ![image](https://github.com/Gino5566/Android-MySQL/assets/133637425/ed31ebd0-9f9f-4ee5-b872-ca0b799d1671)
 <br>
 
-### Android Studio(2)-ClassItem.java:
+### Android Studio(4)-ClassItem.java:
 ![image](https://github.com/Gino5566/Android-MySQL/assets/133637425/df346de5-41e4-4b7c-a052-fb346df1e9fd)
 <br>
 
-### Android Studio(2)-ItemAdapter.java:
+### Android Studio(5)-ItemAdapter.java:
+![image](https://github.com/Gino5566/Android-MySQL/assets/133637425/49ebfa35-1037-43a7-a15a-84f5e82804c9)
+
+# MySQL,VS Code-php
+![image](https://github.com/Gino5566/Android-MySQL/assets/133637425/fa9a1eb0-984a-4173-ac86-4e06e0c8b0b6)
+<br>
+
+### VS Code-php(2):
+![image](https://github.com/Gino5566/Android-MySQL/assets/133637425/8c5a1633-a416-4dfe-88e4-71cfe3bc270a)
+
