@@ -1,7 +1,8 @@
-# Android-MySQL
+![image](https://github.com/Gino5566/Android-MySQL/assets/133637425/b70204f4-2f21-41a4-90ff-17a9a944c896)# Android-MySQL
 這是一個在Android系統上的應用程式並且使用MySQL API來實現數據的儲存和管理
 # 使用工具
 ![image](https://github.com/Gino5566/Android-MySQL/assets/133637425/8cb6161c-85e7-4d91-abf6-fc3c8e0b8e7e)
+
 # 介面
 ### 介面(1)-activity_main.xml:
 ![image](https://github.com/Gino5566/Android-MySQL/assets/133637425/03d2fc91-6cb2-4ff1-a037-0cdd8a15025c)
@@ -17,3 +18,13 @@
 # Android Studio
 ### Android Studio(1):
 ![image](https://github.com/Gino5566/Android-MySQL/assets/133637425/27420f1f-932a-4cc0-90df-4215dc8cdbd7)
+<br>
+### Android Studio(2)-MainActivity.java:
+![image](https://github.com/Gino5566/Android-MySQL/assets/133637425/4bd487ec-7191-47a8-b69b-5efe371fe67d)
+<br>
+### Android Studio(2)-UploadImagetoMySQL.java:
+![image](https://github.com/Gino5566/Android-MySQL/assets/133637425/ed31ebd0-9f9f-4ee5-b872-ca0b799d1671)
+<br>
+### Android Studio(2)-ClassItem.java:
+<br>
+### Android Studio(2)-ItemAdapter.java:
