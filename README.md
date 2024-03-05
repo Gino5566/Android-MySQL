@@ -47,3 +47,4 @@
 ![image](https://github.com/Gino5566/Android-MySQL/assets/133637425/8c5a1633-a416-4dfe-88e4-71cfe3bc270a)
 
 # 結果
+![image](https://github.com/Gino5566/Android-MySQL/assets/133637425/7aef288d-894e-407f-a756-bcb0774609e5)
